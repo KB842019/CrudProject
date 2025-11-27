@@ -11,7 +11,6 @@ const App = () => {
   )
 }
 export default App
-
 const styles = StyleSheet.create({
   container:{
     height:'100%',
